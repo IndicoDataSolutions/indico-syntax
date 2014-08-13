@@ -8,6 +8,4 @@ Either, search for it in the Packages section in you Atom settings tab. Or from 
 apm install indico-syntax
 ```
 
-![Indico syntax and UI](https://raw.githubusercontent.com/jamiewilson/predawn-syntax/master/predawn-atom.png)
-
 View on Atom.io at http://atom.io/packages/indico-syntax
