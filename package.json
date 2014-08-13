@@ -5,7 +5,7 @@
   "description": "Syntax color scheme for the indico UI theme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jamiewilson/predawn-syntax"
+    "url": "https://github.com/IndicoDataSolutions/indico-syntax"
   },
   "license": "MIT",
   "engines": {
