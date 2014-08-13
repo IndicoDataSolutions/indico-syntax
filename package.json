@@ -1,0 +1,26 @@
+{
+  "name": "indico-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Syntax color scheme for the indico UI theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jamiewilson/predawn-syntax"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "readme": "# This is the color scheme for the [indico](http://www.indico.io) theme for [Atom](https://atom.io/packages/predawn-ui).\n# The indico color theme is based on the [Predawn syntax theme by Jamie Wilson](https://github.com/jamiewilson/predawn-syntax)\n## Installation\n\nEither, search for it in the Packages section in you Atom settings tab. Or from the command-line run:\n\n```\napm install indico-syntax\n```\n\n![Indico syntax and UI](https://raw.githubusercontent.com/jamiewilson/predawn-syntax/master/predawn-atom.png)\n\nView on Atom.io at http://atom.io/packages/indico-syntax\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/IndicoDataSolutions/indico-syntax/issues"
+  },
+  "homepage": "https://github.com/IndicoDataSolutions/predawn-syntax",
+  "_id": "indico-syntax@0.0.0",
+  "dist": {
+    "shasum": "9d9530abbe5405ecb411c66cff70cb0394faeabd"
+  },
+  "_resolved": "/tmp/d-114712-11211-1uj625q/package.tgz",
+  "_from": "/tmp/d-114712-11211-1uj625q/package.tgz"
+}
